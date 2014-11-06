@@ -1,0 +1,26 @@
+{
+  "name": "uxrocket.placeholder",
+  "version": "0.3.1",
+  "description": "jQuery base Placeholder for IE8 and lower versions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uxrocket/uxrocket.placeholder.git"
+  },
+  "dependencies": {
+	"jquery": "latest"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+    "input",
+    "textarea",
+	"placeholder",
+	"uxrocket"
+  ],
+  "author": "Bilal Cinarli <bcinarli@gmail.com> (http://bcinarli.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxrocket/uxrocket.placeholder/issues"
+  },
+  "homepage": "https://github.com/uxrocket/uxrocket.placeholder"
+}
